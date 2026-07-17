@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    background:#121212;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    height:100vh;
+
+}
+
+img{
+
+    width:350px;
+
+    cursor:pointer;
+
+    transition:.3s;
+
+}
+
+img:hover{
+
+    transform:scale(1.05);
+
+}
