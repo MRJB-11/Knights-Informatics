@@ -5,31 +5,19 @@
 }
 
 body{
-
-    background:#121212;
-
+    background:#000000;
     display:flex;
-
     justify-content:center;
-
     align-items:center;
-
     height:100vh;
-
 }
 
 img{
-
-    width:350px;
-
+    width:800px;
     cursor:pointer;
-
     transition:.3s;
-
 }
 
 img:hover{
-
     transform:scale(1.05);
-
 }

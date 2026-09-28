@@ -1,0 +1,8 @@
+[
+    {
+        "nombre": "Nombre del juego",
+        "genero": "Acción",
+        "plataforma": "PC",
+        "imagen": "img/juegos/juego1.jpg"
+    }
+]
